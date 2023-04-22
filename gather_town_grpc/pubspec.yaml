@@ -1,0 +1,15 @@
+name: gather_town_grpc
+description: Currently just used for creating Dart models from events.proto.
+version: 0.0.0-a1
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: '>=2.19.4 <3.0.0'
+
+dependencies:
+  fixnum: ^1.1.0
+  protobuf: ^2.1.0
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0
