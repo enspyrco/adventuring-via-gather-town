@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "name": "gather_town_grpc",
+      "cwd": "gather_town_grpc",
+      "request": "launch",
+      "type": "dart",
+      "program": "example/gather_town_grpc_example.dart"
+    }
+  ]
+}
