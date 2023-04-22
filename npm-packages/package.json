@@ -1,0 +1,9 @@
+{
+  "name": "gather-town-service",
+  "version": "0.0.1",
+  "description": "An http server for the gather.town websocket API.",
+  "dependencies": {
+    "@gathertown/gather-game-client": "^39.0.0",
+    "ts-proto": "^1.146.0"
+  }
+}
