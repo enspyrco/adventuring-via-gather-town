@@ -6,20 +6,20 @@ A collection of projects for adventuring in gather.town, backed by the gather_to
 
 ## Subtrees
 
-### [...]
+### gather_town_service
 
-Added with: `git subtree add --prefix subtrees/[...] git@github.com:enspyrco/[...].git main --squash`
+Added with: `git subtree add --prefix subtrees/gather_town_service git@github.com:enspyrco/gather_town_service.git main --squash`
 
 #### Pull in new subtree commits
 
 ```sh
-git subtree pull --prefix subtrees/[...] git@github.com:enspyrco/[...].git main --squash
+git subtree pull --prefix subtrees/gather_town_service git@github.com:enspyrco/gather_town_service.git main --squash
 ```
 
 #### Pushing to the subtree remote repository
 
 ```sh
-git subtree push --prefix subtrees/[...] git@github.com:enspyrco/[...].git main
+git subtree push --prefix subtrees/gather_town_service git@github.com:enspyrco/gather_town_service.git main
 ```
 
 ## CI
